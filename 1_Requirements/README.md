@@ -30,4 +30,4 @@
 
 ### THREATS
 
-###  The slower growth or external factors may affect due to slow growth in technology in this fast-paced world.
+###  The growth may be affected due to external factors or slow improvement in technology with the dynamic world.
