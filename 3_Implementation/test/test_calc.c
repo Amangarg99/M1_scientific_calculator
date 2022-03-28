@@ -1,5 +1,5 @@
-#include "unity.h"
-#include "func.h"
+#include "../Unity/unity.h"
+#include "../src/func.h"
 
 /* Modify these two lines according to the project */
 
@@ -27,7 +27,7 @@ void tearDown(void) {}
 int main(void)
 {
   /* Initiate the Unity Test Framework */
-  UNITY_BEGIN(void);
+  UnityBegin(NULL);
 
   /* Run Test functions */
   RUN_TEST(test_addition);
@@ -43,7 +43,7 @@ int main(void)
   // RUN_TEST(test_modulus);
 
   /* Close the Unity Test Framework */
-  return UNITY_END();
+  return UnityEnd();
 }
 
 /* Write all the test functions */

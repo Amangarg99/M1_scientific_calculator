@@ -1,6 +1,6 @@
 #include <stdio.h>  
 #include <math.h> 
-#include "unity.h" 
+#include "../Unity/unity.h" 
 int addition();
 int subtract();
 int multiply();  
