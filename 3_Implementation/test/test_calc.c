@@ -1,8 +1,6 @@
 #include "../Unity/unity.h"
 #include "../src/func.h"
 
-/* Modify these two lines according to the project */
-
 #define PROJECT_NAME "Calculator"
 
 /* Prototypes for all the test functions */
@@ -46,7 +44,7 @@ int main(void)
   return UnityEnd();
 }
 
-/* Write all the test functions */
+
 void test_addition(void)
 {
   TEST_ASSERT_EQUAL(30, addition(10, 20));
