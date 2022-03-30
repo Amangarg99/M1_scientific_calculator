@@ -1,5 +1,5 @@
 #include "func.h"
-int subtract(int n1,int n2)  
+int subtract(int x,int y)  
 {  
-    return n1 - n2;    
+    return x-y;    
 }  
