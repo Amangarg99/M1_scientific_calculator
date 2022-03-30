@@ -13,6 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build
-      run:  make build -C M1_scientific_calculator/3_Implementation
+    - name: make build
+      run:  make build -C M1_scientific_calculator/3_Implementation/
  
