@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build
-      run:  make -C 3_Implementation/src
+      run:  make build -C M1_scientific_calculator/3_Implementation
  
