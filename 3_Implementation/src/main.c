@@ -1,12 +1,10 @@
 
 #include <stdlib.h>
 #include "func.h"
-
 void exit();
 
 int main()
 {
-
     int choice;
     int x, y, result;
     float res;
