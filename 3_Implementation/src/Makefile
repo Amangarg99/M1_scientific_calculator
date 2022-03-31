@@ -4,7 +4,7 @@ test:test.out
 
 code.out:addition.o log.o exponential.o modulus.o power.o subtraction.o main.o multiplication.o square_root.o square.o division.o factorial.o
 	gcc $^ -o $@ -lm
-test.out:addition.o log.o exponential.o modulus.o power.o subtraction.o multiplication.o square_root.o square.o division.o factorial.o test_calc.o ../unity/unity.o 
+test.out:addition.o log.o exponential.o modulus.o power.o subtraction.o multiplication.o square_root.o square.o division.o factorial.o ../test/test_calc.o ../unity/unity.o 
 	gcc $^ -o $@ -lm -Iunity 
 clean: clean-code clean-test
 clean-code:
