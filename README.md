@@ -6,3 +6,6 @@
 
 * Codiga - Static code analysis
 ![Quality](https://api.codiga.io/project/32133/score/svg)
+
+* Code Quality - Static Code - Cppcheck
+[![Static Code Quality- Cppcheck](https://github.com/Amangarg99/M1_scientific_calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Amangarg99/M1_scientific_calculator/actions/workflows/cppcheck.yml)
