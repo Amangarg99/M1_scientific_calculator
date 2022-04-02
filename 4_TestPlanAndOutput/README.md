@@ -19,12 +19,12 @@
 |  L_01       |                         Addition                             |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing |
 |  L_02       |                 Subtraction                                  |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing   |
 |  L_03       |               Multiplication                                 |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
-|  L_03       |                  Division                                    | Integer value |Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |                  Division                                    | Float value |Valid o/p|Valid o/p|Scenario based unit testing    |
 |  L_03       |                  Square                                      |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
-|  L_03       |Square root                                                   |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |Square root                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
 |  L_03       |Factorial                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
-|  L_03       |Power                                                         |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing    |
-|  L_03       |Exponential                                                   |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing     |
-|  L_03       |Logarithm                                                     |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |Power                                                         |  Float value|Valid o/p|Valid o/p|Scenario based unit testing    |
+|  L_03       |Exponential                                                   |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
+|  L_03       |Logarithm                                                     |  Float value|Valid o/p|Valid o/p|Scenario based unit testing     |
 |  L_03       |Modulus                                                       |  Integer value|Valid o/p|Valid o/p|Scenario based unit testing   |
              
