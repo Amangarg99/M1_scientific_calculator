@@ -28,10 +28,10 @@ Folder             | Description
 
 ## Challenges Faced and How Was It Overcome
 
-1. Issue while running Makefile - make sure you have included all the files with .o extension and also include correct path for unity and test file
-2. Issue with workflows - Check you folder structure where all the unity and makefile is present and include the path correctly
-3. Isuue with workflows(Valgrind)- Here the chances are that you will get some error because of few missing updates . so you can try with this command which i have mentioned below
-   run: |
+1. `Issue while running Makefile` - make sure you have included all the files with .o extension and also include correct path for unity and test file
+2. `Issue with workflows` - Check you folder structure where all the unity and makefile is present and include the path correctly
+3. `Isuue with workflows(Valgrind)`- Here the chances are that you will get some error because of few missing updates . so you can try with this command which i   have mentioned below
+  ## run: |
         sudo apt-get update
         sudo apt-get -y install valgrind --fix-missing
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev --fix-missing
@@ -42,6 +42,3 @@ Folder             | Description
 2. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
 
-
-
-[README.md](https://github.com/Amangarg99/M1_scientific_calculator/files/8401930/README.md)
