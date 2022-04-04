@@ -24,6 +24,8 @@ Folder             | Description
 `2_Design`         | Documents specifying design details
 `3_Implementation` | All code and documentation
 `4_TestPlanAndOutput`      | Documents with test plans and procedures
+`5_Report` | All README in one place
+`6_Video` | Project explanation video
 
 
 ## Challenges Faced and How Was It Overcome
